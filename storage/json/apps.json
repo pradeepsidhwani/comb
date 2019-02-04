@@ -1,0 +1,402 @@
+[
+  {
+    "appName": "WhatsApp",
+    "permissions": [
+      {
+        "permission": "ACCESS_FINE_LOCATION",
+        "severity": "3"
+      },
+      {
+        "permission": "WRITE_SECURE_SETTINGS",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Instagram",
+    "permissions": [
+      {
+        "permission": "ACCESS_FINE_LOCATION",
+        "severity": "3"
+      },
+      {
+        "permission": "WRITE_SETTINGS",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Gaana",
+    "permissions": [
+      {
+        "permission": "GET_ACCOUNTS",
+        "severity": "1"
+      },
+      {
+        "permission": "BIND_ACCESSIBILITY_SERVICE",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Adobe Reader",
+    "permissions": [
+      {
+        "permission": "CAMERA",
+        "severity": "2"
+      },
+      {
+        "permission": "WRITE_CALL_LOG",
+        "severity": "2"
+      },
+      {
+        "permission": "BATTERY_STATS",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "Kindle",
+    "permissions": [
+      {
+        "permission": "INSTALL_PACKAGES",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Amazon",
+    "permissions": [
+      {
+        "permission": "RECEIVE_WAP_PUSH",
+        "severity": "1"
+      },
+      {
+        "permission": "SYSTEM_ALERT_WINDOW",
+        "severity": "2"
+      },
+      {
+        "permission": "READ_EXTERNAL_STORAGE",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "Google Assistant",
+    "permissions": [
+      {
+        "permission": "BATTERY_STATS",
+        "severity": "1"
+      },
+      {
+        "permission": "CLEAR_APP_USER_DATA",
+        "severity": "3"
+      },
+      {
+        "permission": "WRITE_CALL_LOG",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Authenticator",
+    "permissions": [
+      {
+        "permission": "SYSTEM_ALERT_WINDOW",
+        "severity": "2"
+      },
+      {
+        "permission": "INSTALL_PACKAGES",
+        "severity": "2"
+      },
+      {
+        "permission": "USE_SIP",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "Aws Console",
+    "permissions": [
+      {
+        "permission": "RECEIVE_WAP_PUSH",
+        "severity": "1"
+      },
+      {
+        "permission": "RECORD_AUDIO",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "BHIM",
+    "permissions": [
+      {
+        "permission": "INTERNET",
+        "severity": "1"
+      },
+      {
+        "permission": "ACCESS_WIFI_STATE",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "BookMyShow",
+    "permissions": [
+      {
+        "permission": "SEND_SMS",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Calender",
+    "permissions": [
+      {
+        "permission": "BIND_NOTIFICATION_LISTENER_SERVICE",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "CamScanner",
+    "permissions": [
+      {
+        "permission": "READ_CALENDAR",
+        "severity": "1"
+      },
+      {
+        "permission": "WRITE_SECURE_SETTINGS",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Chrome",
+    "permissions": [
+      {
+        "permission": "WRITE_CONTACTS",
+        "severity": "3"
+      },
+      {
+        "permission": "GET_ACCOUNTS",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "CoolWinks",
+    "permissions": [
+      {
+        "permission": "READ_EXTERNAL_STORAGE",
+        "severity": "1"
+      },
+      {
+        "permission": "CHANGE_WIFI_STATE",
+        "severity": "1"
+      },
+      {
+        "permission": "READ_PHONE_NUMBERS",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Google Duo",
+    "permissions": [{
+      "permission": "GET_ACCOUNTS",
+      "severity": "1"
+    },
+    {
+      "permission": "WRITE_CONTACTS",
+      "severity": "3"
+    }]
+  },
+  {
+    "appName": "FastHub",
+    "permissions": [
+      {
+        "permission": "SEND_SMS",
+        "severity": "3"
+      },
+      {
+        "permission": "INSTALL_PACKAGES",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Facebook Lite",
+    "permissions": [
+      {
+        "permission": "GET_ACCOUNTS",
+        "severity": "1"
+      },
+      {
+        "permission": "CHANGE_WIFI_STATE",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "FreeCharge",
+    "permissions": [
+      {
+        "permission": "BODY_SENSORS",
+        "severity": "1"
+      },
+      {
+        "permission": "INTERNET",
+        "severity": "1"
+      },
+      {
+        "permission": "WRITE_CONTACTS",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Paytm",
+    "permissions": [
+      {
+        "permission": "SYSTEM_ALERT_WINDOW",
+        "severity": "2"
+      },
+      {
+        "permission": "SYSTEM_ALERT_WINDOW",
+        "severity": "2"
+      },
+      {
+        "permission": "GET_ACCOUNTS",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "Flipkart",
+    "permissions": [
+      {
+        "permission": "ADD_VOICEMAIL",
+        "severity": "1"
+      },
+      {
+        "permission": "RECORD_AUDIO",
+        "severity": "1"
+      },
+      {
+        "permission": "RECORD_AUDIO",
+        "severity": "1"
+      },
+      {
+        "permission": "WRITE_CALL_LOG",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Fynd",
+    "permissions": [
+      {
+        "permission": "WRITE_CALENDAR",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "Future Pay",
+    "permissions": [
+      {
+        "permission": "BIND_NOTIFICATION_LISTENER_SERVICE",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Google Pay",
+    "permissions": [
+      {
+        "permission": "GET_ACCOUNTS",
+        "severity": "1"
+      },
+      {
+        "permission": "INSTALL_PACKAGES",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Hotstar",
+    "permissions": [
+      {
+        "permission": "GET_TASKS",
+        "severity": "2"
+      },
+      {
+        "permission": "INSTALL_PACKAGES",
+        "severity": "2"
+      },
+      {
+        "permission": "WRITE_EXTERNAL_STORAGE",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "Jio TV",
+    "permissions": [
+      {
+        "permission": "WRITE_SETTINGS",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Jio Music",
+    "permissions": [
+      {
+        "permission": "BIND_NOTIFICATION_LISTENER_SERVICE",
+        "severity": "3"
+      },
+      {
+        "permission": "PROCESS_OUTGOING_CALLS",
+        "severity": "2"
+      },
+      {
+        "permission": "WRITE_CONTACTS",
+        "severity": "3"
+      }
+    ]
+  },
+  {
+    "appName": "Hangouts",
+    "permissions": [
+      {
+        "permission": "CLEAR_APP_CACHE",
+        "severity": "2"
+      }
+    ]
+  },
+  {
+    "appName": "Keep Notes",
+    "permissions": [
+      {
+        "permission": "ADD_VOICEMAIL",
+        "severity": "1"
+      },
+      {
+        "permission": "READ_EXTERNAL_STORAGE",
+        "severity": "1"
+      }
+    ]
+  },
+  {
+    "appName": "LinkedIn",
+    "permissions": [
+      {
+        "permission": "WRITE_SETTINGS",
+        "severity": "3"
+      }
+    ]
+  }
+]
